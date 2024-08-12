@@ -1,1 +1,1 @@
-# AUTHZ-and-AUTHZ-beckend
+# AUTHZ-and-AUTHZ-backend
